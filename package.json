@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dragma/styled-bootstrap-grid.git"
+    "url": "git+https://github.com/vascosimoes-bytepitch/styled-bootstrap-grid.git"
   },
   "keywords": [
     "styled-components",
@@ -34,9 +34,9 @@
   "author": "Florent Béjina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dragma/styled-bootstrap-grid/issues"
+    "url": "https://github.com/vascosimoes-bytepitch/styled-bootstrap-grid/issues"
   },
-  "homepage": "https://github.com/dragma/styled-bootstrap-grid#readme",
+  "homepage": "https://github.com/vascosimoes-bytepitch/styled-bootstrap-grid#readme",
   "peerDependencies": {
     "react": "^0.14.0 || >=16",
     "styled-components": ">=4"
